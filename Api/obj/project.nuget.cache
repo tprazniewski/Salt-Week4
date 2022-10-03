@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jL52h3n7XCZEAqkuuzpSooxM5V4HIF9BU2jSsB56pcVvjNCydneObypV1i7Lnj733oUsd27FDDGzoBtJzrEOsA==",
+  "dgSpecHash": "0Ce1htX6F+PvYNXRnCl4W60eJVV8QmH+tZ3EqtPcpPjfKgQgaJmkhsYYrs4l8+vopA/ZUzJnvrp8D+/A9OD9LA==",
   "success": true,
-  "projectFilePath": "/Users/tomaszprazniewski/Documents/Projects/PGP/Week 1/Salt-Week4/Salt-Week4.csproj",
+  "projectFilePath": "/Users/tomaszprazniewski/Documents/Projects/PGP/Week 1/Salt-Week4/Api/Api.csproj",
   "expectedPackageFiles": [
     "/Users/tomaszprazniewski/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/tomaszprazniewski/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

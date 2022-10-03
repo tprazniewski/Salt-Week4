@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tomaszprazniewski/Documents/Projects/PGP/Week 1/Salt-Week4/Salt-Week4.csproj",
-      "projectName": "Salt-Week4",
-      "projectPath": "/Users/tomaszprazniewski/Documents/Projects/PGP/Week 1/Salt-Week4/Salt-Week4.csproj",
+      "projectUniqueName": "/Users/tomaszprazniewski/Documents/Projects/PGP/Week 1/Salt-Week4/Api/Api.csproj",
+      "projectName": "Api",
+      "projectPath": "/Users/tomaszprazniewski/Documents/Projects/PGP/Week 1/Salt-Week4/Api/Api.csproj",
       "packagesPath": "/Users/tomaszprazniewski/.nuget/packages/",
-      "outputPath": "/Users/tomaszprazniewski/Documents/Projects/PGP/Week 1/Salt-Week4/obj/",
+      "outputPath": "/Users/tomaszprazniewski/Documents/Projects/PGP/Week 1/Salt-Week4/Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tomaszprazniewski/.nuget/NuGet/NuGet.Config"
